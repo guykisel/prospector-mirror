@@ -1,0 +1,5 @@
+-   id: prospector
+    name: prospector
+    entry: prospector
+    language: python
+    files: \.py$
