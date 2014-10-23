@@ -1,5 +1,5 @@
 -   id: prospector
     name: prospector
-    entry: prospector
+    entry: -n 1 prospector
     language: system
     files: \.py$
