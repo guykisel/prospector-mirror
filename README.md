@@ -16,5 +16,3 @@ Add this to your `.pre-commit-config.yaml`:
         sha: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: prospector
-            args:
-            - -o=pylint   # Optional, but recommended for best results
