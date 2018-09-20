@@ -13,6 +13,6 @@ For prospector: see https://github.com/landscapeio/prospector
 Add this to your `.pre-commit-config.yaml`:
 
     -   repo: git://github.com/guykisel/prospector-mirror
-        sha: ''  # Use the sha / tag you want to point at
+        rev: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: prospector
